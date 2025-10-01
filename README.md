@@ -89,13 +89,6 @@ Defined in `default_script.cpp`:
 }
 ```
 
-### Web Panel
-
-Accessible via browser at the shown IP address.  
-Use the panel to visually build, import, export, and save scripts to the device.
-
----
-
 ## Usage
 
 1. Power on the ESP32  
