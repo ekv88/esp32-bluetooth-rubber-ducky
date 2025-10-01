@@ -2,6 +2,9 @@
 
 Tiny ESP32 rubber ducky that acts like **Bluetooth keyboard and mouse**, displays status on a **0.91" SSD1306 OLED**, and hosts a **local web panel** where you can visually build, save, and run input scripts (keyboard, mouse, touch actions, etc.).
 
+![panel](.github/panel.png)
+
+
 ### Features
 
 - Visual **web panel builder** (drag & drop interface)  
